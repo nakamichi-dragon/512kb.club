@@ -1852,6 +1852,11 @@
   url: https://proseandconst.xyz/
   size: 311
   last_checked: 2022-03-25
+  
+- domain: proxy.dystopic.world
+  url: https://proxy.dystopic.world
+  size: 2.3
+  last_checked: 2022-10-04  
 
 - domain: pukima.site
   url: https://pukima.site/
